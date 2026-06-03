@@ -1,6 +1,6 @@
 # 多语言试卷审校 Agent · exam_checker_agent
 
-> [中文](README.md) ｜ 🌐 [English](README.en.md)（WIP）
+> [中文](README.md) ｜ 🌐 [English](README.en.md)
 
 > 一个把「整份试卷」自动拆题、逐题检测内容/图文/查重问题、并产出可复核报告的**全栈审校平台**。
 > 输入一份 `.doc/.docx/.pdf` 试卷或一个 `.xlsx/zip` 评测集，经「**文档解析 → 路由 → 多任务检测 → 去重聚合 → 查重 / 评测 → 报告**」一条流水线，产出逐题问题清单与 Word/Excel/ZIP 报告。
